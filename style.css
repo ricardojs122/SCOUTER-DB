@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #DB3A34;
+  }
+  
+  .scouter {
+    margin-top: 50px;
+    position: relative;
+  }
+  
+  .scouter-image {
+    width: 900px;
+    height: 405px;
+  }
+  
+  #display {
+    position: absolute;
+    top: 250px;
+    left: 385px;
+    font-size: 48px;
+    font-weight: bold;
+    color: #DB3A34;
+  }
+  
+  #scanBtn {
+    position: absolute;
+    top: 350px;
+    left: 450px;
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #DB3A34;
+    color: #FFF;
+    cursor: pointer;
+  }
+  
